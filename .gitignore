@@ -1,5 +1,5 @@
 # Write_console_output
-*.txt
+*.log
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
